@@ -43,4 +43,5 @@
 * [EssentialBot](badger-software/essentialbot.md)
 * [SimpleRoleBot](badger-software/simplerolebot.md)
 * [CollectiveBot](badger-software/collectivebot.md)
+* [BadgerStaffPanel](badger-software/badgerstaffpanel.md)
 
