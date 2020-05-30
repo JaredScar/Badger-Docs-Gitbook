@@ -1,6 +1,6 @@
 # BadgerStaffPanel
 
-## Setting up the website
+## Setting up BadgerStaffPanel
 
 ### Discord Application Configuration
 
@@ -67,5 +67,85 @@ $botToken = '{BOT-TOKEN}';
 
 ### Server API Configuration
 
+```text
+$serverIP = '{SERVER-IP}';
+$port = 80; // Website port
+$steamAPIkey = '{STEAM-API-KEY}';
+$server_port = 30120;
+$rconPassword = '{RCON-PASSWORD}';
+$serverName = '{SERVER-NAME}';
+```
 
+* Replace `{SERVER-IP}` with the server IP of your server
+* Replace `80` with the port your website runs on \(for most websites, the default port is port 80\)
+* Replace `{STEAM-API-KEY}` with the steam API key you get from a key you get from [https://steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey)
+* Replace `30120` with the port of your FiveM server \(for most servers, the default port is 30120\)
+* Replace `{RCON-PASSWORD}` with the RCON password within your `server.cfg` file 
+* Replace `{SERVER-NAME}` with your server's name
+* You have now completed the server API configuration section of BadgerStaffPanel
+
+### SQL Configuration
+
+```text
+// SQL INFO
+$host = '';
+$username = '';
+$password = '';
+$db = '';
+$port = 3306;
+```
+
+### Website Permissions Configuration
+
+```text
+$permissionsSetup = [
+    '{T-MOD-RANK}' => [// Start T-Mod
+        'Permission.Note',
+        'Permission.Warn',
+        'Permission.Kick',
+        'Permission.RemoveNote',
+        'Permission.RemoveWarn',
+    ], // End T-Mod
+    '{MOD-RANK}' => [// Start Mod
+        'Permission.Note',
+        'Permission.Warn',
+        'Permission.Kick',
+        'Permission.Tempban',
+        'Permission.Ban',
+        'Permission.RemoveNote',
+        'Permission.RemoveWarn',
+        'Permission.RemoveKick',
+        'Permission.RemoveTempban',
+    ], // End Mod
+    '{ADMIN-RANK}' => [ // Start Admin
+        'Permission.Note',
+        'Permission.Warn',
+        'Permission.Kick',
+        'Permission.Tempban',
+        'Permission.Ban',
+        'Permission.RemoveNote',
+        'Permission.RemoveWarn',
+        'Permission.RemoveKick',
+        'Permission.RemoveTempban',
+        'Permission.RemoveBan',
+    ], // End Admin
+    '{MANAGEMENT-RANK}' => [ // Start Management
+        'Permission.Note',
+        'Permission.Warn',
+        'Permission.Kick',
+        'Permission.Tempban',
+        'Permission.Ban',
+        'Permission.RemoveNote',
+        'Permission.RemoveWarn',
+        'Permission.RemoveKick',
+        'Permission.RemoveTempban',
+        'Permission.RemoveBan',
+    ], // End Management
+];
+```
+
+* Replace `{T-MOD-RANK}` with the role ID of the T-Mod rank in your discord server
+* Replace `{MOD-RANK}` with the role ID of the Mod rank in your discord server
+* Replace `{ADMIN-RANK}` with the role ID of the Admin rank in your discord server
+* Replace `{MANAGEMENT-RANK}` with the role ID of the Management rank in your discord server
 
