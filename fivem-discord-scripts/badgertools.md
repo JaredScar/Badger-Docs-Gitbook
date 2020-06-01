@@ -102,5 +102,5 @@ Use the left and right arrow keys on your keyboard to cycle between spectating a
 
 `/freeze [id] - Freeze the player so they cannot run from staff sits`
 
-**Download** [BadgerTools](https://github.com/TheWolfBadger/BadgerTools-Revamped)
+**Download** [BadgerTools](https://github.com/JaredScar/BadgerTools)
 
