@@ -31,5 +31,11 @@ roleList = {
 
 The 1s should be replaced with IDs of the respective roles in your discord server. The quotes with groups should represent the groups in your permissions.cfg or server.cfg.
 
+1. Download DiscordAcePerms
+2. Extract the .zip and place the folder in your /resources/ of your Fivem server
+3. Put “add\_ace resource.DiscordAcePerms command.add\_principal allow” in server.cfg
+4. Make sure you add “start DiscordAcePerms” in your server.cfg
+5. Enjoy ![:slight\_smile:](https://forum.cfx.re/images/emoji/twitter/slight_smile.png?v=9)
+
 **Download** [DiscordAcePerms](https://github.com/TheWolfBadger/DiscordAcePerms)
 
