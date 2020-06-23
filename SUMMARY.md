@@ -34,6 +34,7 @@
 * [BadgerTracer](fivem-misc.-scripts/badgertracer.md)
 * [Fivem Keybase Anticheat](fivem-misc.-scripts/fivem-keybase-anticheat.md)
 * [DiscordReports](fivem-misc.-scripts/discordreports.md)
+* [Badger-Priorities](fivem-misc.-scripts/badger-priorities.md)
 
 ## Badger Software
 
