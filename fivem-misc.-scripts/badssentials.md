@@ -99,5 +99,5 @@ Essentially, you can ass as many watermarks to this configuration that you want 
 
 ### Download
 
-TODO
+{% embed url="https://github.com/JaredScar/Badssentials" %}
 
