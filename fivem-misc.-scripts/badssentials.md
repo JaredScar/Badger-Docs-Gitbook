@@ -95,7 +95,7 @@ Postals = {
 
 ```
 
-Essentially, you can ass as many watermarks to this configuration that you want just by following the format of the previous ones. The placeholders all in this configuration can be used as well. Currently only EST time is supported, but there may be more coming in the future \(pull request maybe please? lol\)...
+Essentially, you can add as many watermarks to this configuration that you want just by following the format of the previous ones. The placeholders all in this configuration can be used as well. Currently only EST time is supported, but there may be more coming in the future \(pull request maybe please? lol\)...
 
 ### Download
 
