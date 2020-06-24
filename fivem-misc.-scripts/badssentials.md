@@ -14,7 +14,7 @@ Badssentials is essentially the most essential script you need. I saw multiple s
 
 ### Commands
 
-`/postal <code>` - 
+`/postal <code>` - Sets your waypoint to this postal code's location
 
 `/postal` - Cancels your waypoint
 
