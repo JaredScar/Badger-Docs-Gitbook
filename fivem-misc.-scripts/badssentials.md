@@ -26,11 +26,21 @@ Badssentials is essentially the most essential script you need. I saw multiple s
 
 `/toggle-hud` - Toggles your HUD on and off
 
+`/revive` - Revive yourself if you are dead
+
+`/revive <id>` - Revive the player with this ID
+
+`/respawn` - Respawn yourself if you are dead
+
 ### Permissions
 
 `Badssentials.AOP` - Gives permission to use the /aop command
 
 `Badssentials.PeaceTime` - Gives permission to use both /peacetime and /pt command
+
+`Badssentials.Bypass.Revive` - Gives permission to bypass wait-time for /revive 
+
+`Badssentials.Bypass.Respawn` - Gives permission to bypass wait-time for /respawn
 
 ### Configuration
 
