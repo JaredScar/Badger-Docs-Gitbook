@@ -22,6 +22,7 @@
 * [PoliceEMSActivity](fivem-discord-scripts/policeemsactivity.md)
 * [BadgerCopChat](fivem-discord-scripts/badgercopchat.md)
 * [DiscordDonatorPerks](fivem-discord-scripts/discorddonatorperks.md)
+* [Badger-911](fivem-discord-scripts/badger-911.md)
 
 ## Fivem Misc. Scripts
 
