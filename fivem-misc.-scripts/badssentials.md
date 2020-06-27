@@ -12,6 +12,8 @@ Badssentials is essentially the most essential script you need. I saw multiple s
 
 ![A /toggle-hud command that works with Badger-Priorities too](https://i.gyazo.com/557c43a66a594cfda785ffeda51c8fc3.gif)
 
+![Death screen when a person dies](https://i.gyazo.com/8b67ad7591a9b911604a944603788836.gif)
+
 ### Commands
 
 `/postal <code>` - Sets your waypoint to this postal code's location
