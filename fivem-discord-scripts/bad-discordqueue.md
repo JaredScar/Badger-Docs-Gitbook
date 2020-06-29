@@ -1,9 +1,5 @@
 # Bad-DiscordQueue
 
-## Bad-DiscordQueue
-
-A Fivem Script
-
 ### All I ask
 
 All I ask is that if you enjoy this resource, please give it a like on the forum page, on GitHub \(if you have an account\), and pop me a follow over on GitHub.
