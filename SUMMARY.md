@@ -24,6 +24,7 @@
 * [DiscordDonatorPerks](fivem-discord-scripts/discorddonatorperks.md)
 * [Badger-911](fivem-discord-scripts/badger-911.md)
 * [Bad-Scoreboard](fivem-discord-scripts/bad-scoreboard.md)
+* [Bad-DiscordQueue](fivem-discord-scripts/bad-discordqueue.md)
 
 ## Fivem Misc. Scripts
 
