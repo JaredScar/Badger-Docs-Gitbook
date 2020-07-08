@@ -1,5 +1,9 @@
 # BadgerStockMarket
 
+## BadgerStockMarket
+
+A FiveM Script \(that actually utilizes the real stock market, pretty nifty\)
+
 ### What is it?
 
 BadgerStockMarket is a stock market that is based on the real stock market! The prices and graphs actually come from the real stock market! I wanted to make a nifty script to interact with the stock market and actually invest it, but without investing real money. You can do that with this script! You use ESX money in-game to invest into the stock market. The stock market updates/refreshes every time you open the phone, so this updates in real live time. Make sure you sell your stocks when you are making money, not when you are losing money!
@@ -54,4 +58,10 @@ You must use [https://money.cnn.com](https://money.cnn.com) website for this to 
 ### Liability Reasons
 
 For liability reasons, I wanted to include this at the bottom. BadgerStockMarket is in no way affiliated with the Stock Market and/or its proprieters. BadgerStockMarket was created as an educational tool to be used within the GTA V modification known as FiveM. BadgerStockMarket is also not affiliated with the Robinhood application. Although the script used the Robinhood logo. Once again, BadgerStockMarket was created as an educational tool. If anyone has a problem with this, please contact me and we can get the changes adjusted appropriately, thank you.
+
+### Download
+
+{% embed url="https://github.com/JaredScar/BadgerStockMarket" %}
+
+
 
