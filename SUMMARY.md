@@ -40,6 +40,7 @@
 * [Badger-Priorities](fivem-misc.-scripts/badger-priorities.md)
 * [Badssentials](fivem-misc.-scripts/badssentials.md)
 * [BadgerStockMarket](fivem-misc.-scripts/badgerstockmarket.md)
+* [Badger-Anticheat](fivem-misc.-scripts/badger-anticheat.md)
 
 ## Badger Software
 

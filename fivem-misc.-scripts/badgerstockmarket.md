@@ -1,9 +1,5 @@
 # BadgerStockMarket
 
-## BadgerStockMarket
-
-A FiveM Script \(that actually utilizes the real stock market, pretty nifty\)
-
 ### What is it?
 
 BadgerStockMarket is a stock market that is based on the real stock market! The prices and graphs actually come from the real stock market! I wanted to make a nifty script to interact with the stock market and actually invest it, but without investing real money. You can do that with this script! You use ESX money in-game to invest into the stock market. The stock market updates/refreshes every time you open the phone, so this updates in real live time. Make sure you sell your stocks when you are making money, not when you are losing money!
