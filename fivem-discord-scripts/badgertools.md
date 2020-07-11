@@ -50,6 +50,10 @@ _**Freezing Players**_
 
 ![](https://i.gyazo.com/12cc12c435870276f3ceb7f8f13c91c2.gif)
 
+**OOC Voice Chat as well as on screen OOC message**
+
+![](https://i.gyazo.com/9fba9a538eeb890391b46874da9265de.gif)
+
 **Permission to use BadgerTools Spectate:**
 
 ```text
@@ -60,15 +64,37 @@ BadgerTools.Commands.Spectate
 
 All you have to worry about for configuration purposes is this section: The first role should always be the default role, so the role ID in the first item doesn't actually matter therefore I put a 0 there to indicate it is default.
 
+FOUND IN `config.lua` FILE:
+
 ```text
-roleList = {
-{0, ""}, -- 1
-{577661583497363456, "~g~Donator | "}, -- 3
-{577631197987995678, "~r~T-Mod | "}, -- 4
-{506211787214159872, "~r~Mod | "}, -- 5
-{506212543749029900, "~r~Admin | "}, -- 6
-{577966729981067305, "~p~Management | "}, -- 7
-{506212786481922058, "~o~Owner | "}, -- 8
+Config = {
+	Prefix = '^9[^5BadgerTools^9] ^3',
+	RoleList = {
+		{0, "~g~"},  
+		{1, "~g~DONATOR ~w~"},
+		{1, "~g~ULTIMATE ~w~"},  
+		{1, "~r~STAFF ~w~"}, 
+		{1, "~p~MANAGEMENT ~w~"},
+		{1, "~RGB~MANAGEMENT ~w~"},
+		{1, "~o~OWNER ~w~"}, 
+		{1, "~RGB~OWNER ~w~"}, 
+	},
+	OOC_Prefix = '~w~[~p~OOC~w~] ',
+	OOC_Messages = {
+		{
+		x = .5,
+		y = .65,
+		size = .75,
+		msg = '~r~You are rendered dead... Voice chat will be considered Out Of Character'
+		},
+		{
+		x = .5,
+		y = .69,
+		size = .75,
+		msg = '~b~Use /me for In Character'
+		},
+	},
+	EnableVoiceOOC = true,
 }
 ```
 
