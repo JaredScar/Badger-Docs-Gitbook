@@ -44,6 +44,18 @@ Currenty there are no commands for this anticheat :\(
 
 ### Configuration
 
+#### Server.lua file:
+
+Put your Webhook URL in `''` 
+
+```text
+BlacklistedEvents = Config.BlacklistedEvents;
+
+webhookURL = ''
+```
+
+#### Config.lua file:
+
 ```text
 Config = {
     TowTruckDrivers = {'S_M_M_TRUCKER_01', 'MP_M_WAREMECH_01'},
@@ -53,7 +65,31 @@ Config = {
          AntiSpectate = true,
          AntiTeleport = true,
          AntiNoclip = true,
-         AntiSpeedhack = true
+         AntiSpeedhack = true,
+         AntiCommands = true,
+         AntiKeys = true,
+         AntiESX = true,
+    },
+    KickForKeys = false,
+    BlacklistedKeys = {
+        {{121}, "Insert Key"}, -- Insert Key 
+        {{37, 44}, "Tab + Q Keys"}, -- Tab + Q key 
+        {{47, 21}, "Shift + G Keys"}, -- Shift + G key  
+        {{117}, "Numpad 7 Key"}, -- Lynx Evo Menu 
+        {{214}, "Delete Key"}, -- Delete Menu 
+    },
+    BlacklistedCommands = {
+        "chocolate",
+        "pk",
+        "haha",
+        "lol",
+        "panickey",
+        "killmenu",
+        "panik",
+        "lynx",
+        "brutan",
+        "panic",
+        "saucy",
     },
     BlacklistedEvents = {
         'esx_drugs:startHarvestCoke',
