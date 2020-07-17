@@ -44,7 +44,7 @@ Currenty there are no commands for this anticheat :\(
 
 ### Configuration
 
-#### Server.lua file:
+#### server.lua file:
 
 Put your Webhook URL in `''` 
 
@@ -54,7 +54,7 @@ BlacklistedEvents = Config.BlacklistedEvents;
 webhookURL = ''
 ```
 
-#### Config.lua file:
+#### config.lua file:
 
 ```text
 Config = {
