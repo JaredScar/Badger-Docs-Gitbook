@@ -16,6 +16,8 @@ Badger's Official Anticheat \[code inspirations from DevLanceGood and Bluethefur
 
 · Stops MOST modder props \(NOTE: Sometimes a regular player may get kicked or caught when the script scans for props since the modder spawned it on them. However, one of the caught players when this happens should be the confirmed modder, but it is up to your discretion to figure out who. As a good train of thought, it's usually the user who is not in your discord or has a low playtime on your server.\)
 
+· Stops MOST modder injection
+
 ### Summary
 
 Badger-Anticheat can catch modders noclipping, spectating, and even faking chat messages. Badger-Anticheat also will stop the spawning of peds from modders. Don't worry! AI are safe, but Badger-Anticheat just prevents the peds modders spawn from being spawned. Badger-Anticheat also stops blacklisted props from being spawned via the `Config` blacklisted list. If Badger-Anticheat can successfully find the modder who spawned the prop, it then kicks them and logs this via a Discord webhook. The code is quite simple, yet effective. I saw there was no real good anticheats on the forums, so I thought I should put one together. Some of the code comes from other developers, therefore I made sure to credit them within the code too. DevLanceGood is one of these developers, as well as Bluethefurry. I have linked their GitHubs below.
