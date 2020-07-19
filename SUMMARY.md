@@ -51,4 +51,5 @@
 * [EssentialBot](badger-software/essentialbot.md)
 * [CollectiveBot](badger-software/collectivebot.md)
 * [BadgerStaffPanel](badger-software/badgerstaffpanel.md)
+* [ResourceEventScrambler](badger-software/resourceeventscrambler.md)
 
