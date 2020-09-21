@@ -30,7 +30,7 @@ Badger-Anticheat can catch modders noclipping, spectating, and even faking chat 
 
 `/latest` - Will show the 10 most recent players on the server. Essentially, the most likely ones to be a possible modder...
 
-`/entitywipe <ID>` - This will wipe the server of all entities if you put `-1` in `<ID>` or will wipe the server of all entities of a certain player if you put the player's ID.
+`/entitywipe <ID>` \[Requires ACE `"AntiCheat.Moderation"`\] - This will wipe the server of all entities if you put `-1` in `<ID>` or will wipe the server of all entities of a certain player if you put the player's ID.
 
 ### Screenshots
 
