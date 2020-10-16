@@ -2,21 +2,15 @@
 
 **CURRENT VERSION: 7.0**
 
-## **Version 1.0**
+## Requirement
 
-This is a very simple script that uses IllusiveTea's discord\_perms for chat roles :\)
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
+
+## **Version 1.0**
 
 Picture example taken from my RP server:
 
 ![](https://i.gyazo.com/c845547a9cbcd99e7716726d53abb216.png)
-
-You must set up IllusiveTea's discord\_perms script for this to work properly. ---&gt; [https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805](https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805)
-
-**Installation Tutorial** 
-
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
-
-{% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
 
 **Example of how the chat roles are set up and what you should change:**
 
