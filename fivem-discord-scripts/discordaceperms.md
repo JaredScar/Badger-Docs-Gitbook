@@ -33,7 +33,7 @@ The 1s should be replaced with IDs of the respective roles in your discord serve
 
 1. Download DiscordAcePerms
 2. Extract the .zip and place the folder in your /resources/ of your Fivem server
-3. Put “add\_ace resource.DiscordAcePerms command.add\_principal allow” in server.cfg
+3. Put `add_ace resource.DiscordAcePerms command.add_principal allow` and `add_ace resource.DiscordAcePerms command.remove_principal allow` in server.cfg
 4. Make sure you add “start DiscordAcePerms” in your server.cfg
 5. Enjoy ![:slight\_smile:](https://forum.cfx.re/images/emoji/twitter/slight_smile.png?v=9)
 
