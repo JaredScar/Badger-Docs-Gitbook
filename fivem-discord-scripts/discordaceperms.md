@@ -4,11 +4,11 @@
 
 This is another one of my discord scripts! :\) If used properly along with my other scripts, you can fully make your server use only discord roles for permissions and chat roles ;\)
 
-You must set up IllusiveTea’s discord\_perms script for this to work properly. —&gt; [Discord roles for permissions \(im creative, i know\)](https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805)
+**Requirement**
+
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
 **Installation Tutorial**
-
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
 
 {% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
 
