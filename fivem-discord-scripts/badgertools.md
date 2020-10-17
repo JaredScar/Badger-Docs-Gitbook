@@ -4,15 +4,13 @@ The administration tool for server owners that you've all been looking for! One 
 
 **Installation Tutorial**
 
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
-
 {% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
 
-**IMPORTANT**
+**Requirements**
 
-You must set up IllusiveTea’s discord\_perms script for this to work properly. --&gt; [Discord roles for permissions \(im creative, i know\)](https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805)
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
-You also must have my DiscordTagIDs script properly installed --&gt; [https://forum.cfx.re/t/discordtagids-i-know-i-know-i-only-make-discord-based-scripts/582513](https://forum.cfx.re/t/discordtagids-i-know-i-know-i-only-make-discord-based-scripts/582513)
+{% embed url="https://forum.cfx.re/t/discordtagids-i-know-i-know-i-only-make-discord-based-scripts/582513" %}
 
 **MAKE SURE YOU DISABLE vMenu VOICE CHAT OTHERWISE YOU WILL RUN INTO PROBLEMS**
 
