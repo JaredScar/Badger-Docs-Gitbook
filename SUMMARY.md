@@ -33,14 +33,14 @@
   * [GetDiscordName](fivem-discord-scripts/badger_discord_api/getdiscordname.md)
   * [GetDiscordAvatar](fivem-discord-scripts/badger_discord_api/getdiscordavatar.md)
   * [GetDiscordNickname](fivem-discord-scripts/badger_discord_api/getdiscordnickname.md)
-  * [GetDiscordRoles](fivem-discord-scripts/badger_discord_api/untitled-13.md)
-  * [GetGuildIcon](fivem-discord-scripts/badger_discord_api/untitled-4.md)
-  * [GetGuildSplash](fivem-discord-scripts/badger_discord_api/untitled-5.md)
-  * [GetGuildName](fivem-discord-scripts/badger_discord_api/untitled-6.md)
-  * [GetGuildDescription](fivem-discord-scripts/badger_discord_api/untitled-7.md)
-  * [GetGuildMemberCount](fivem-discord-scripts/badger_discord_api/untitled-8.md)
-  * [GetGuildOnlineMemberCount](fivem-discord-scripts/badger_discord_api/untitled-9.md)
-  * [GetGuildRoleList](fivem-discord-scripts/badger_discord_api/untitled-12.md)
+  * [GetDiscordRoles](fivem-discord-scripts/badger_discord_api/getdiscordroles.md)
+  * [GetGuildIcon](fivem-discord-scripts/badger_discord_api/getguildicon.md)
+  * [GetGuildSplash](fivem-discord-scripts/badger_discord_api/getguildsplash.md)
+  * [GetGuildName](fivem-discord-scripts/badger_discord_api/getguildname.md)
+  * [GetGuildDescription](fivem-discord-scripts/badger_discord_api/getguilddesc.md)
+  * [GetGuildMemberCount](fivem-discord-scripts/badger_discord_api/getguildmembercount.md)
+  * [GetGuildOnlineMemberCount](fivem-discord-scripts/badger_discord_api/getguildonlinememcount.md)
+  * [GetGuildRoleList](fivem-discord-scripts/badger_discord_api/getguildrolelist.md)
 
 ## Fivem Misc. Scripts
 

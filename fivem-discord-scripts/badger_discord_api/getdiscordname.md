@@ -6,7 +6,7 @@ GetDiscordName
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This export allows you to get a Discord role ID from what it is named on the Guild.
+This export allows you to get a player's Discord name.
 {% endapi-method-description %}
 
 {% api-method-spec %}
