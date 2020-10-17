@@ -6,14 +6,14 @@ IsDiscordEmailVerified
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This export allows you to check if a player has their Discord email verified
+This export allows you to check if a player has their Discord email verified.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
 {% api-method-parameter name="user" type="object" required=true %}
-The source of the player you want to check
+The source of the player you want to check.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}

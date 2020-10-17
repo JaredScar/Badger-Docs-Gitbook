@@ -6,26 +6,26 @@ CheckEqual
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This export allows you to check if a Discord role ID is equal to a Discord role Name, this can also check if a Discord role ID is equal to Badger\_Discord\_API config's RoleList role reference
+This export allows you to check if a Discord role ID is equal to a Discord role Name, this can also check if a Discord role ID is equal to Badger\_Discord\_API config's RoleList role reference.
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-query-parameters %}
 {% api-method-parameter name="role2" type="number" required=true %}
-The 2nd role ID you are comparing
+The 2nd role ID you are comparing.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="role2" type="string" required=true %}
-The 2nd role name or role reference you are comparing
+The 2nd role name or role reference you are comparing.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="role1" type="number" required=true %}
-The role ID
+The role ID.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="role1" type="string" required=true %}
-The role name or role reference
+The role name or role reference.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}

@@ -13,7 +13,7 @@ This export allows you to get a player's Discord email if allowed
 {% api-method-request %}
 {% api-method-query-parameters %}
 {% api-method-parameter name="user" type="object" required=true %}
-The source of the player you want to check
+The source of the player you want to check.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
 {% endapi-method-request %}
