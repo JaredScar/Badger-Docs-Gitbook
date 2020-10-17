@@ -25,6 +25,8 @@
 * [Badger-911](fivem-discord-scripts/badger-911.md)
 * [Bad-Scoreboard](fivem-discord-scripts/bad-scoreboard.md)
 * [Bad-DiscordQueue](fivem-discord-scripts/bad-discordqueue.md)
+* [Badger\_Discord\_API](fivem-discord-scripts/badger_discord_api/README.md)
+  * [GetRoleIdFromRoleName](fivem-discord-scripts/badger_discord_api/getroleidfromrolename.md)
 
 ## Fivem Misc. Scripts
 
