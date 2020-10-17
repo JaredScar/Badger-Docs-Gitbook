@@ -8,11 +8,11 @@ This is a script that added prefixes to ID tags above players :\) by using fully
 
 I also wanna give thanks to MrDaGree for originally creating the script this was adapted onto! You can find that here, [https://forum.cfx.re/t/release-changed-player-name-tags-distance-names/19204](https://forum.cfx.re/t/release-changed-player-name-tags-distance-names/19204)
 
-You must have this installed and properly working for this script to work --&gt; [https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805](https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805)
+**Requirement**
 
-**Installation Tutorial** 
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
+**Installation Tutorial**
 
 {% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
 
