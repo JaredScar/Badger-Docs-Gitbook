@@ -1,6 +1,6 @@
 # GetRoleIdFromRoleName
 
-{% api-method method="get" host="exports.Badger\_Discord\_API:GetRoleIdFromRoleName" path="\(roleName\);" %}
+{% api-method method="get" host="exports.Badger\_Discord\_API:GetRoleIdFromRoleName" path="\(roleName\)" %}
 {% api-method-summary %}
 GetRoleIdFromRoleName
 {% endapi-method-summary %}
