@@ -10,11 +10,7 @@ This is basically a discord queue for logging into a server. When you connect to
 
 ### Dependencies
 
-{% embed url="https://github.com/sadboilogan/discord\_perms" %}
-
-### Installation
-
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
 ### Screenshots
 
