@@ -1,8 +1,8 @@
-# GetRoleIdFromRoleName
+# CheckEqual
 
-{% api-method method="get" host="exports.Badger\_Discord\_API:GetRoleIdFromRoleName" path="\(roleName\);" %}
+{% api-method method="get" host="exports.Badger\_Discord\_API:CheckEqual" path="\(role1, role2\);" %}
 {% api-method-summary %}
-GetRoleIdFromRoleName
+CheckEqual
 {% endapi-method-summary %}
 
 {% api-method-description %}

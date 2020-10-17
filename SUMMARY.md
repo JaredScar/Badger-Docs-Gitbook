@@ -27,6 +27,22 @@
 * [Bad-DiscordQueue](fivem-discord-scripts/bad-discordqueue.md)
 * [Badger\_Discord\_API](fivem-discord-scripts/badger_discord_api/README.md)
   * [GetRoleIdFromRoleName](fivem-discord-scripts/badger_discord_api/getroleidfromrolename.md)
+  * [CheckEqual](fivem-discord-scripts/badger_discord_api/checkequal.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-1.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-2.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-3.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-4.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-5.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-6.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-7.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-8.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-9.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-10.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-11.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-12.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-13.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-14.md)
+  * [Untitled](fivem-discord-scripts/badger_discord_api/untitled-15.md)
 
 ## Fivem Misc. Scripts
 
