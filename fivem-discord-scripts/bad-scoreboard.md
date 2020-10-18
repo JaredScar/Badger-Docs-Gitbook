@@ -12,9 +12,7 @@ Bad-Scoreboard \(or Bad-ServerList as I like to call it\) is a simple Fivem scor
 
 ### Installation \(discord\_perms\)
 
-#### The script in this video is not installing this script, but much of what you do in this video is the same for this configuration file:
-
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
+{% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
 ### Screenshots
 
