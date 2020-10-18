@@ -6,6 +6,10 @@
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
+## Installation Tutorial
+
+{% embed url="https://youtu.be/UUzSdQtJE4s" %}
+
 ## **Version 1.0**
 
 Picture example taken from my RP server:

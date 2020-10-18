@@ -10,7 +10,7 @@ This is another one of my discord scripts! :\) If used properly along with my ot
 
 **Installation Tutorial**
 
-{% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
+{% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
 The permissions for a user update after every restart when they first login \(so long as they have the discord role ID associated with the group in the list\).
 

@@ -4,7 +4,7 @@ The administration tool for server owners that you've all been looking for! One 
 
 **Installation Tutorial**
 
-{% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
+{% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
 **Requirements**
 

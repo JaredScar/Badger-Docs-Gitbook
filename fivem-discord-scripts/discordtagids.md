@@ -14,7 +14,7 @@ I also wanna give thanks to MrDaGree for originally creating the script this was
 
 **Installation Tutorial**
 
-{% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
+{% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
 **Commands:** `/tag-toggle - Turns off the prefix from being shown for the player (if they have a prefix in their tag)` 
 
