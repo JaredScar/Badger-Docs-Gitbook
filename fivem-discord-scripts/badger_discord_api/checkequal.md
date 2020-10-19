@@ -47,7 +47,7 @@ Returns false if the roles are not considered equal:
 {% endapi-method-response-example-description %}
 
 ```text
-nil
+false
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
