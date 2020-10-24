@@ -12,9 +12,9 @@ The permissions update every respawn for a player :\)
 
 ### How to Install
 
---- \(REQUIRED\) MAKE SURE YOU SET UP IllusiveTea's discord\_perms script which you can find here: [https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805](https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805)
+**Requirement**
 
-{% embed url="https://youtu.be/sjbFzkII2T0" %}
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
 ### Setup
 

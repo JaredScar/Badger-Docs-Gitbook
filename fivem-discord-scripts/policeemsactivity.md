@@ -12,13 +12,11 @@ _Essentially, PoliceEMSActivity is a script in which is like a /onduty command, 
 
 **Installation Tutorial** 
 
-{% embed url="https://www.youtube.com/watch?v=sjbFzkII2T0" %}
-
 {% embed url="https://www.youtube.com/watch?v=xDfyGcqX5sA" %}
 
 **Dependency:** 
 
-{% embed url="https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805" %}
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
 **Features** 
 

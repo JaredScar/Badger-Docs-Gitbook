@@ -8,8 +8,6 @@ Another discord script of course! With this script, you can restrict weapons to 
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
-{% embed url="https://youtu.be/sjbFzkII2T0" %}
-
 **How it works**
 
 Find the following within your server.lua and replace the 1s in here with discord role IDs:
