@@ -8,7 +8,7 @@ Badger-911 is a simple, but efficient 911 script for your server. 911 calls are 
 
 ### Dependency
 
-{% embed url="https://github.com/sadboilogan/discord\_perms" %}
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
 ### Screenshots
 
