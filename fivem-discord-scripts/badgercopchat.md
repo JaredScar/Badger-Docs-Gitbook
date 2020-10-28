@@ -4,6 +4,10 @@
 
 This is a pretty simple script, but cool one also. It utilizes a player's discord roles to determine if they are a LEO or not. If they are within the roleList, then they are considered to be a LEO and will have access to use the /leoChat commands.
 
+### Requirements
+
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
+
 ### Configuration
 
 ```text
