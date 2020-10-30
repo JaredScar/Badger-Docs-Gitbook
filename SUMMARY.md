@@ -63,9 +63,14 @@
 * [Introduction](badger-software/introduction.md)
 * [FivemDiscordPerms](badger-software/fivemdiscordperms.md)
 * [BadgerTrustSystem](badger-software/badgertrustsystem.md)
-* [SimpleRoleBot](badger-software/simplerolebot.md)
-* [EssentialBot](badger-software/essentialbot.md)
-* [CollectiveBot](badger-software/collectivebot.md)
 * [BadgerStaffPanel](badger-software/badgerstaffpanel.md)
 * [ResourceEventScrambler](badger-software/resourceeventscrambler.md)
+
+## Archived Projects
+
+---
+
+* [SimpleRoleBot](simplerolebot.md)
+* [EssentialBot](essentialbot.md)
+* [CollectiveBot](collectivebot.md)
 
