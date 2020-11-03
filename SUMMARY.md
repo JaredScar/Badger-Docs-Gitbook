@@ -57,6 +57,7 @@
 * [Badssentials](fivem-misc.-scripts/badssentials.md)
 * [BadgerStockMarket](fivem-misc.-scripts/badgerstockmarket.md)
 * [Badger-Anticheat](fivem-misc.-scripts/badger-anticheat.md)
+* [Badger\_Jailing](fivem-misc.-scripts/badger_jailing.md)
 
 ## Badger Software
 
