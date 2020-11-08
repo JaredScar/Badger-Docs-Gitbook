@@ -26,6 +26,10 @@ Badger-Anticheat can catch modders noclipping, spectating, and even faking chat 
 
 {% embed url="https://github.com/Bluethefurry" %}
 
+### Requirements
+
+{% embed url="https://github.com/jaimeadf/discord-screenshot" %}
+
 ### Commands
 
 `/latest` - Will show the 10 most recent players on the server. Essentially, the most likely ones to be a possible modder...
@@ -45,6 +49,8 @@ Badger-Anticheat can catch modders noclipping, spectating, and even faking chat 
 ![Catching a modder spectating](https://i.gyazo.com/19d929e023970ae53ad3e7c7246c71b0.png)
 
 ![Catching a modder faking a chat message](https://i.gyazo.com/4a58604bcc0d72f378a5f4e42d9e65bf.png)
+
+![Catching a modder click a blacklisted key \(sends a screenshot of their screen\)](https://i.gyazo.com/84b1d0e7cdef420bb10c03eb6e40de33.png)
 
 ### Permissions
 
