@@ -2,7 +2,7 @@
 
 **Version 1.0** 
 
-### For all your hosting needs:
+### For all your hosting needs
 
 ![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
 

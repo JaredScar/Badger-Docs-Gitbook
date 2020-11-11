@@ -6,6 +6,12 @@
 
 DiscordDonatorRanks is a script I made for my server to give some perks to players who were part of the Tebex/Patreon subscription helping to keep us paying for the server. I wanted to give something to those players every month, but didn't want extra work for my staff to have to do. So, with DiscordDonatorRanks, it essentially automates the process of giving money and/or jobs in-game to players depending on their discord roles. It'll then save them to the database and they will not be able to access the perks for another 30 days \(essentially a whole month, maybe down the line I'll make it an official month no matter what month it is\). It's a quite simple script and I'm honestly surprised I haven't found one like it.
 
+### For all your hosting needs
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
 ### Images
 
 ![](https://i.gyazo.com/3c32592dc1dc38fce373f45f549e0547.gif)

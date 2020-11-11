@@ -2,7 +2,7 @@
 
 The administration tool for server owners that you've all been looking for! One of the most useful features being /spectate in which you can cycle spectating through players on the server and also hear everything said whilst spectating and being able to speak the user you are spectating! I hope you all enjoy! :\)
 
-### For all your hosting needs:
+### For all your hosting needs
 
 ![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
 
