@@ -2,6 +2,14 @@
 
 **Version 1.0** 
 
+### For all your hosting needs:
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
+## **What is it?**
+
 Another discord script, yes, you're all welcome!
 
 This one restricts peds to certain discord groups much like my other scripts
@@ -14,7 +22,7 @@ You must set up IllusiveTea's discord\_perms script for this to work properly. -
 
 {% embed url="https://youtu.be/sjbFzkII2T0" %}
 
-**How it works**
+## **How it works**
 
 Find the following within your server.lua and replace the 1s in here with discord role IDs:
 
@@ -45,5 +53,7 @@ Therefore blackpanther, deadpool, and kermit would be restricted to be used by t
 
 It's quite simple :\)
 
-**Download** [DiscordPedPerms](https://github.com/TheWolfBadger/DiscordPedPerms)
+## **Download**
+
+ [DiscordPedPerms](https://github.com/TheWolfBadger/DiscordPedPerms)
 
