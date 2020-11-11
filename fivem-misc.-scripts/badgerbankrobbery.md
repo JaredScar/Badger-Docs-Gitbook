@@ -16,6 +16,10 @@ Banks reset every 15 minutes after a bank robbery, so this gives the cops a brea
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 **REQUIRED DEPENDENCY** 
 
 You must have this properly installed for this script to work correctly --&gt; [https://forum.cfx.re/t/dev-resource-mythic-progress-bar/527607](https://forum.cfx.re/t/dev-resource-mythic-progress-bar/527607)

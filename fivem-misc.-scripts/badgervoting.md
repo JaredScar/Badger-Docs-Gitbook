@@ -10,6 +10,10 @@ This is a simple AOP voting script. Technically with the way it is designed, you
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 `/startVote [seconds] [option1] [option2] [option3] [option4] [option5] - The amount of vote options you can have are unlimited. Basically every option is delimited by a space, so use "-" for things that usually require a space. (Example of what I mean is down in the Gifs below)`
 
 `To use /startVote, add the ACE permission to the user group:`

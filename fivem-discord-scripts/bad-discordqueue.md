@@ -14,6 +14,10 @@ This is basically a discord queue for logging into a server. When you connect to
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ### Installation
 
 {% embed url="https://youtu.be/UUzSdQtJE4s" %}

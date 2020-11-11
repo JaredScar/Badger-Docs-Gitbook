@@ -10,6 +10,10 @@ Another discord script of course! With this script, you can restrict weapons to 
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ## **Requirements**
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}

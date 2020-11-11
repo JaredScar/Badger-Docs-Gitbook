@@ -10,6 +10,10 @@ Badger\_Jailing is a pretty basic jailing script. I wrote it for my past FiveM s
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ### Images
 
 ![](https://i.gyazo.com/6ac0d98d3f6abcc51253cd35c9c28a8f.gif)

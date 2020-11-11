@@ -1,5 +1,9 @@
 # Introduction
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 Welcome to the section of documentation that features my other FiveM scripts. These FiveM scripts do not have any integration of discord within them. Most of them most likely use ACE permissions system or may just be able to be used by everyone.
 
 Some of these scripts feature an animation script that includes lock-picking, walking styles, and a robbery script that will allow people to rob all the stores on the map every 15 minutes \(configurable\). 

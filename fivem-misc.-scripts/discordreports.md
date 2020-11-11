@@ -14,6 +14,10 @@ DiscordReports is a script I made way back in August of 2019, but I never actual
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ### Images
 
 ![Report Sent Confirmation](https://i.gyazo.com/de1029ba48dc4b05d40993bf64a16add.png)

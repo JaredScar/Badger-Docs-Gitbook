@@ -12,6 +12,10 @@ Badger-911 is a simple, but efficient 911 script for your server. 911 calls are 
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ### Dependency
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}

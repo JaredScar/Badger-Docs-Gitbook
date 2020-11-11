@@ -10,6 +10,10 @@ Basically, you ever want to give players access to their own personal ped, then 
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ![](https://i.gyazo.com/05afae9b0808ef3dce8734c9ea0f8dd6.gif)
 
 ![](https://i.gyazo.com/f6504163e6a1c7f4939c1b61cd2e50d4.png)

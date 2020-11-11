@@ -12,6 +12,10 @@ One of the features is if a player is at 50% or less health that they then are s
 
 #### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 **Note** 
 
 For the lockpicking feature to work, you must have this script installed properly as well ---&gt; [https://forum.cfx.re/t/dev-resource-mythic-progress-bar/527607](https://forum.cfx.re/t/dev-resource-mythic-progress-bar/527607)

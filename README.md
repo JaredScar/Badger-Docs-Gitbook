@@ -7,6 +7,10 @@ description: >-
 
 # Welcome to Badger Docs
 
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 If you have any further questions and/or concerns about anything within this documentation, you may gather more support personally and from other members of the Badger Developer Community over [here](https://discord.gg/Rmzgwpn).
 
 {% hint style="info" %}
