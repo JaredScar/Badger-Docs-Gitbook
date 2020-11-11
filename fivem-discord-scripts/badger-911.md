@@ -6,6 +6,12 @@
 
 Badger-911 is a simple, but efficient 911 script for your server. 911 calls are only displayed to those who have a police discord role on your discord server. When someone calls in 911, the call will only be relayed to the cops on the server. There is also a webhook in which you can set up to print the 911 transmissions in as well. What makes this 911 script stand out though is responding to calls. Instead of needing someone to give a postal in the 911 transmission or need them to say where, you can get their exact location the call was made from. Using the command `/resp <response code>` will set your waypoint on the map to the location the call was made at! Now, that's pretty cool.
 
+### For all your hosting needs
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
 ### Dependency
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
