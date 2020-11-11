@@ -1,14 +1,20 @@
 # DiscordAcePerms
 
-**Version 1.0**
+## **Version 1.0**
 
 This is another one of my discord scripts! :\) If used properly along with my other scripts, you can fully make your server use only discord roles for permissions and chat roles ;\)
 
-**Requirement**
+### For all your hosting needs:
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
+## **Requirement**
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
-**Installation Tutorial**
+## **Installation Tutorial**
 
 {% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
@@ -37,5 +43,7 @@ The 1s should be replaced with IDs of the respective roles in your discord serve
 4. Make sure you add \`start DiscordAcePerms\` in your server.cfg
 5. Enjoy ![:slight\_smile:](https://forum.cfx.re/images/emoji/twitter/slight_smile.png?v=9)
 
-**Download** [DiscordAcePerms](https://github.com/TheWolfBadger/DiscordAcePerms)
+## **Download**
+
+ ****[DiscordAcePerms](https://github.com/TheWolfBadger/DiscordAcePerms)
 
