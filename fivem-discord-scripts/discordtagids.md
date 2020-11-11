@@ -1,6 +1,6 @@
 # DiscordTagIDs
 
-**Version 1.0**
+## **Version 1.0**
 
 Yes yes I know... I only make discord-based scripts. Well, you're damn welcome!
 
@@ -8,15 +8,23 @@ This is a script that added prefixes to ID tags above players :\) by using fully
 
 I also wanna give thanks to MrDaGree for originally creating the script this was adapted onto! You can find that here, [https://forum.cfx.re/t/release-changed-player-name-tags-distance-names/19204](https://forum.cfx.re/t/release-changed-player-name-tags-distance-names/19204)
 
-**Requirement**
+### For all your hosting needs:
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
+## **Requirement**
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
-**Installation Tutorial**
+## **Installation Tutorial**
 
 {% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
-**Commands:** `/tag-toggle - Turns off the prefix from being shown for the player (if they have a prefix in their tag)` 
+## **Commands**
+
+`/tag-toggle - Turns off the prefix from being shown for the player (if they have a prefix in their tag)` 
 
 `/tags-toggle - Turns off all tags from being shown above other players for ONLY yourself (good for streamers and/or pictures)` 
 
@@ -49,5 +57,7 @@ roleList = {
 }
 ```
 
-**Download** [DiscordTagIDs](https://github.com/TheWolfBadger/DiscordTagIDs)
+## **Download**
+
+ ****[DiscordTagIDs](https://github.com/TheWolfBadger/DiscordTagIDs)
 
