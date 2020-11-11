@@ -8,6 +8,7 @@
 * [ACE Permissions](fivem-general-help/ace-permissions.md)
 * [Getting Discord Role IDs](fivem-general-help/getting-discord-role-id.md)
 * [Setting up a Discord Webhook](fivem-general-help/setting-up-a-discord-webhook.md)
+* [Discord identifier not found](fivem-general-help/discord-identifier-not-found.md)
 
 ## Fivem Discord Scripts
 
