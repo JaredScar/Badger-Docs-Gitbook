@@ -6,6 +6,12 @@
 
 Badssentials is essentially the most essential script you need. I saw multiple scripts split up and never saw a single script like this. I figured, I might as well make one, so I did. Badssentials includes AOP, PeaceTime, postal waypointing, and configurable placeholder watermarks! The amount of possibilities is endless with this script! Make sure you take a look at `Screenshots` to see what you can make with this!
 
+### For all your hosting needs
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
 ### Screenshots
 
 ![What you can make with Badssentials](https://i.gyazo.com/07b89a6d03ac42f4cf496265d1e55c4f.png)

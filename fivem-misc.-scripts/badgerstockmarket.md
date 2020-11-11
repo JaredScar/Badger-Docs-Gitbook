@@ -4,6 +4,12 @@
 
 BadgerStockMarket is a stock market that is based on the real stock market! The prices and graphs actually come from the real stock market! I wanted to make a nifty script to interact with the stock market and actually invest it, but without investing real money. You can do that with this script! You use ESX money in-game to invest into the stock market. The stock market updates/refreshes every time you open the phone, so this updates in real live time. Make sure you sell your stocks when you are making money, not when you are losing money!
 
+### For all your hosting needs
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
 ### Commands
 
 `/stocks` - Opens up the phone menu for the stocks

@@ -6,7 +6,15 @@ This is a really simple script that allows realistic robberies of the banks. Cur
 
 Basically this allows an animation of robbing the bank for users and fun RP for all on the server.
 
-Banks reset every 15 minutes after a bank robbery, so this gives the cops a break \(this time is subject to increase/decrease if you find it in the server.lua and simply change the value '15' to another value\). Once you start breaking into safes, beware that you cannot move and cannot cancel the action! This is why it's highly suggested you rob the bank with your friends/hooligans! They will need to protect you while you steal the goods! How do you rob the bank? Very easy, just walk up to the red circle and press the 'E' key! Once you start breaking in, the silent alarm will be triggered and everyone will know the bank is being robbed! I've shown a demo gif below. [https://i.gyazo.com/0689ffd64c7a1d26ec9e3b8d8a144cac.gif](https://i.gyazo.com/0689ffd64c7a1d26ec9e3b8d8a144cac.gif)
+Banks reset every 15 minutes after a bank robbery, so this gives the cops a break \(this time is subject to increase/decrease if you find it in the server.lua and simply change the value '15' to another value\). Once you start breaking into safes, beware that you cannot move and cannot cancel the action! This is why it's highly suggested you rob the bank with your friends/hooligans! They will need to protect you while you steal the goods! How do you rob the bank? Very easy, just walk up to the red circle and press the 'E' key! Once you start breaking in, the silent alarm will be triggered and everyone will know the bank is being robbed! I've shown a demo gif below. 
+
+![](https://i.gyazo.com/0689ffd64c7a1d26ec9e3b8d8a144cac.gif)
+
+### For all your hosting needs
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
 
 **REQUIRED DEPENDENCY** 
 
