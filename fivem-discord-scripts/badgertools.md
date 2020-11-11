@@ -2,11 +2,17 @@
 
 The administration tool for server owners that you've all been looking for! One of the most useful features being /spectate in which you can cycle spectating through players on the server and also hear everything said whilst spectating and being able to speak the user you are spectating! I hope you all enjoy! :\)
 
-**Installation Tutorial**
+### For all your hosting needs:
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
+### **Installation Tutorial**
 
 {% embed url="https://youtu.be/UUzSdQtJE4s" %}
 
-**Requirements**
+### **Requirements**
 
 {% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
 
@@ -32,7 +38,7 @@ The administration tool for server owners that you've all been looking for! One 
 #add_ace group.owner "vMenu.VoiceChat.StaffChannel" allow
 ```
 
-**What is BadgerTools?**
+### **What is BadgerTools?**
 
 _BadgerTools is a nifty script that took me a long while to perfect... It's still not perfect and I will continue to optimize it, but it's a very stable state for now. So, basically what BadgerTools is is staff administration tools. Currently it only features a /spectate and /spectate \[id\] as well as it's own custom voice chat \(15 meters voice chat by default for everyone, but can be changed with /proximity\) that replaces vMenu's voice chat. You can cycle through players on the server once in /spectate mode as well by using the left and right arrow keys on your keyboard as well. Simply type /spectate to get out of spectate mode. Whilst you are spectating a player, you can hear all the players they can hear within your /proximity specified radius from them too. You can also speak to the user you are spectating and users around them. What is special about BadgerTools voice chat? Well, you can add tags to currently speaking voice chat. BadgerTools also gets rid of voice chat color tags from a user unless they have a certain rank. It also gets rid of users who are not staff's red colors in their name._
 
@@ -58,7 +64,7 @@ _**Freezing Players**_
 BadgerTools.Commands.Spectate
 ```
 
-**Configuration for tags** 
+### **Configuration for tags** 
 
 All you have to worry about for configuration purposes is this section: The first role should always be the default role, so the role ID in the first item doesn't actually matter therefore I put a 0 there to indicate it is default.
 
@@ -96,7 +102,7 @@ Config = {
 }
 ```
 
-**Configuration for allowing colors in voice chat** 
+### **Configuration for allowing colors in voice chat** 
 
 For allowing colors in voice chat name, you use the permission:
 
@@ -104,11 +110,11 @@ For allowing colors in voice chat name, you use the permission:
 BadgerTools.Colors
 ```
 
-**How to cycle spectate?** 
+### **How to cycle spectate?** 
 
 Use the left and right arrow keys on your keyboard to cycle between spectating all the players on your server! :\)
 
-**Commands** 
+### **Commands** 
 
 `/proximity [distance] - Changes the proximity range of which you can speak and hear others within`
 
@@ -126,5 +132,7 @@ Use the left and right arrow keys on your keyboard to cycle between spectating a
 
 `/freeze [id] - Freeze the player so they cannot run from staff sits`
 
-**Download** [BadgerTools](https://github.com/JaredScar/BadgerTools)
+### **Download**
+
+ [BadgerTools](https://github.com/JaredScar/BadgerTools)
 
