@@ -4,7 +4,7 @@
 
 This is a pretty simple script, but cool one also. It utilizes a player's discord roles to determine if they are a LEO or not. If they are within the roleList, then they are considered to be a LEO and will have access to use the /leoChat commands.
 
-### For all your hosting needs
+### For all your hosting needs:
 
 ![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
 
