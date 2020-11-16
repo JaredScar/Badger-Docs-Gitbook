@@ -6,15 +6,15 @@ DiscordVehiclesRestrictions is a Discord based vehicle restriction script. I hav
 
 #### Old Script:
 
-[https://forum.cfx.re/t/discordvehiclesrestrict/599594](https://forum.cfx.re/t/discordvehiclesrestrict/599594)
+{% embed url="https://forum.cfx.re/t/discordvehiclesrestrict/599594" %}
 
 ### Images
 
-[https://i.gyazo.com/415c775a6cd94f194e22c9843778bdb0.gif](https://i.gyazo.com/415c775a6cd94f194e22c9843778bdb0.gif)
+![](https://i.gyazo.com/415c775a6cd94f194e22c9843778bdb0.gif)
 
 ### Requirement
 
-[https://forum.cfx.re/t/release-badger-discord-api/1698464](https://forum.cfx.re/t/release-badger-discord-api/1698464)
+{% embed url="https://forum.cfx.re/t/release-badger-discord-api/1698464" %}
 
 ### Configuration
 
@@ -74,5 +74,5 @@ Thanks to @clewis329 for helping to test this, a well as providing the example c
 
 ### Download
 
-[https://github.com/JaredScar/DiscordVehicleRestrictions](https://github.com/JaredScar/DiscordVehicleRestrictions)
+{% embed url="https://github.com/JaredScar/DiscordVehicleRestrictions" %}
 
