@@ -1,5 +1,15 @@
 # DiscordVehicleRestrictions
 
+### For all your hosting needs
+
+![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
+
+#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
+
+### Badger's Discord Community
+
+[![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
+
 ### What is it?
 
 DiscordVehiclesRestrictions is a Discord based vehicle restriction script. I have previously made a script like this in the past, but it was made when I was barely considered a FiveM script developer. Due to the sloppy code practices within that script, I decided to rewrite the script and include something at most people had inquired about within the old one: Inheritance.

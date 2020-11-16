@@ -27,7 +27,6 @@
 * [Bad-Scoreboard](fivem-discord-scripts/bad-scoreboard.md)
 * [Bad-DiscordQueue](fivem-discord-scripts/bad-discordqueue.md)
 * [Badger\_Discord\_API](fivem-discord-scripts/badger_discord_api/README.md)
-  * [DiscordVehicleRestrictions](fivem-discord-scripts/badger_discord_api/discordvehiclerestrictions.md)
   * [GetRoleIdFromRoleName](fivem-discord-scripts/badger_discord_api/getroleidfromrolename.md)
   * [CheckEqual](fivem-discord-scripts/badger_discord_api/checkequal.md)
   * [IsDiscordEmailVerified](fivem-discord-scripts/badger_discord_api/isdiscordemailverified.md)
@@ -43,6 +42,7 @@
   * [GetGuildMemberCount](fivem-discord-scripts/badger_discord_api/getguildmembercount.md)
   * [GetGuildOnlineMemberCount](fivem-discord-scripts/badger_discord_api/getguildonlinememcount.md)
   * [GetGuildRoleList](fivem-discord-scripts/badger_discord_api/getguildrolelist.md)
+* [DiscordVehicleRestrictions](fivem-discord-scripts/discordvehiclerestrictions.md)
 
 ## Fivem Misc. Scripts
 
