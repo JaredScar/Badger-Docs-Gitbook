@@ -6,12 +6,6 @@
 
 So it's just a priority cooldown script... I know what you're thinking. This is already a thing, it's already made! Well actually I found problems with the ones I found on the Fivem forums, so I decided to make a new one with some extra features. Another feature is that when the cooldowns are on \(priority in progress, priorities on hold, or cooldown is above 0\), then a message will be displayed to players driving a car 80 MPH or faster. This can be disabled in the configuration file too if you don't want this feature though.
 
-### For all your hosting needs
-
-![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
-
-#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
-
 ### Badger's Discord Community
 
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)

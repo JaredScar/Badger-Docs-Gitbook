@@ -8,12 +8,6 @@ This is a script that added prefixes to ID tags above players :\) by using fully
 
 I also wanna give thanks to MrDaGree for originally creating the script this was adapted onto! You can find that here, [https://forum.cfx.re/t/release-changed-player-name-tags-distance-names/19204](https://forum.cfx.re/t/release-changed-player-name-tags-distance-names/19204)
 
-### For all your hosting needs
-
-![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
-
-#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
-
 ### Badger's Discord Community
 
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)

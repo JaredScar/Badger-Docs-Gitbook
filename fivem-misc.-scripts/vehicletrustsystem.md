@@ -6,12 +6,6 @@ It is here everyone! The first of it's kind \(at least I think\)! A vehicle rest
 
 This all works via a file called whitelist.json and it keeps track of every player's vehicles they are allowed to drive! If you run a huge huge server, this may not be the resource for you unless you have a developer capable of moving it to a database storage system... Other than that, this resource runs well for the smaller servers. I may look into adding an SQL option in the future though.
 
-### For all your hosting needs
-
-![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
-
-#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
-
 ### Badger's Discord Community
 
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)

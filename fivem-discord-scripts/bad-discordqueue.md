@@ -8,12 +8,6 @@ All I ask is that if you enjoy this resource, please give it a like on the forum
 
 This is basically a discord queue for logging into a server. When you connect to the server, you get added to a queue. Depending on your priority, you can be at the back of the queue or added to the top automatically. This all depends on what discord roles you have considering it works off of priority numbers. I'm not the best at writing descriptions. I'll be honest, I personally am probably not going to use this script, but I had a lot of people request this script from me, so here it is. Why not increase my rep within the Fivem community?
 
-### For all your hosting needs
-
-![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
-
-#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
-
 ### Badger's Discord Community
 
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)

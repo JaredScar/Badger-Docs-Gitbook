@@ -8,12 +8,6 @@ So you want a script in which other emergency services can see their colleagues 
 
 _Essentially, PoliceEMSActivity is a script in which is like a /onduty command, but on steroids. You can use /duty to toggle between being on duty and off duty. With this comes some awesome things too though. There are Blip-Tags people can toggle between if they are in multiple departments. Also, there are webhooks you can set up for each different department and send their clock-ins and clock-outs to when they toggle /duty or log off whilst on duty. There is also a /cops command so you can check to make sure all the people who are using /duty are actually on duty and in RTO \(on your discord server voice channels I assume\), then punish them accordingly if they use it for metagaming._
 
-### For all your hosting needs
-
-![Iceline Hosting](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)
-
-#### Use code `BADGER15` at [https://iceline-hosting.com/billing/aff.php?aff=284](https://iceline-hosting.com/billing/aff.php?aff=284) for `15% off` your first month of any service \(excluding dedicated servers\)
-
 ### Badger's Discord Community
 
 [![Developer Discord](https://discordapp.com/api/guilds/597445834153525298/widget.png?style=banner4)](https://discord.com/invite/WjB5VFz)
