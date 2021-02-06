@@ -69,6 +69,7 @@
 * [BadgerTrustSystem](badger-software/badgertrustsystem.md)
 * [BadgerStaffPanel](badger-software/badgerstaffpanel.md)
 * [ResourceEventScrambler](badger-software/resourceeventscrambler.md)
+* [CollectiveBot](badger-software/collectivebot.md)
 
 ## Archived Projects
 
@@ -76,5 +77,4 @@
 
 * [SimpleRoleBot](simplerolebot.md)
 * [EssentialBot](essentialbot.md)
-* [CollectiveBot](collectivebot.md)
 
