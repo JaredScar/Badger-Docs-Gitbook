@@ -61,6 +61,7 @@
 * [Badger-Anticheat](fivem-misc.-scripts/badger-anticheat.md)
 * [Badger\_Jailing](fivem-misc.-scripts/badger_jailing.md)
 * [BadgerFires](fivem-misc.-scripts/badgerfires.md)
+* [Multiverse-World-Manager](fivem-misc.-scripts/multiverse-world-manager.md)
 
 ## Badger Software
 
