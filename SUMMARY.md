@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome to Badger Docs](README.md)
+* [Badger's Website](https://badger.store)
+* [Badger's Discord](https://discord.com/invite/WjB5VFz)
 
 ## Fivem General Help
 
