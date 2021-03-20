@@ -3,6 +3,7 @@
 * [Welcome to Badger Docs](README.md)
 * [Badger's Website](https://badger.store)
 * [Badger's Discord](https://discord.com/invite/WjB5VFz)
+* [15% off hosting \| Use Code: badger15](https://iceline-hosting.com/billing/aff.php?aff=284)
 
 ## Fivem General Help
 
