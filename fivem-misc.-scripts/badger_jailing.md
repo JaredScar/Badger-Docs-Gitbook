@@ -16,7 +16,7 @@ Badger\_Jailing is a pretty basic jailing script. I wrote it for my past FiveM s
 
 `/jail <id> <time>` - Requires `Badger_Jailing.Jail` permission.
 
-`/unjail <id>` - Requires `Badger_Jailing.Unjail` permission.
+`/free <id>` - Requires `Badger_Jailing.Unjail` permission.
 
 ### Configuration
 
