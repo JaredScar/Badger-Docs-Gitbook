@@ -42,3 +42,7 @@ Config.Splash = {
 }
 ```
 
+### Download
+
+{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
+
