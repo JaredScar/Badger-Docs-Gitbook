@@ -1,4 +1,6 @@
-# Installation \(Badger\_Discord\_API\)
+# Installation
+
+## Badger\_Discord\_API Installation
 
 ### Notes
 
