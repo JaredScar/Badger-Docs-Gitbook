@@ -1,4 +1,4 @@
-# Installation \(Script\)
+# Installation \(Badger\_Discord\_API\)
 
 ### Notes
 
