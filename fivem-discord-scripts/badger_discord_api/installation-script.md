@@ -8,21 +8,23 @@ Some methods of the API not may fully work or be broken. I was able to test most
 
 ### What is it?
 
-This is essentially a Discord API for FiveM. It utilizes the REST API of Discord for all your essential needs :\) Things that are heavy in Discord rate limiting \(such as retreiving all server roles and player avatars\) will be automatically stored to a cache for developers automatically. I will be moving all my scripts over to use this API for better ease of use. Some features include not having to gather role IDs at all, since the script gets the server's roles automatically, so you can just specify the role's name instead of role IDs at all \(however, be aware that this will break then if someone changes the roles' names on Discord\)... I hope you can all find some use for this, I know I will :P
+This is essentially a Discord API for FiveM. It utilizes the REST API of Discord for all your essential needs :) Things that are heavy in Discord rate limiting (such as retreiving all server roles and player avatars) will be automatically stored to a cache for developers automatically. I will be moving all my scripts over to use this API for better ease of use. Some features include not having to gather role IDs at all, since the script gets the server's roles automatically, so you can just specify the role's name instead of role IDs at all (however, be aware that this will break then if someone changes the roles' names on Discord)... I hope you can all find some use for this, I know I will :P
 
 ### Installation
 
-1. Set up a Discord bot via the developer portal on Discord. \([https://discord.com/developers/applications](https://discord.com/developers/applications)\)
+{% embed url="https://www.youtube.com/watch?v=blOnyLfevw8" %}
+
+1. Set up a Discord bot via the developer portal on Discord. ([https://discord.com/developers/applications](https://discord.com/developers/applications))
 2. Invite the Discord bot you created to your Discord.
 3. Get the Discord bot token from the newly created bot.
-4. Place the Discord bot token in `Bot_Token = '{BOT_TOKEN}',` in the `config.lua` file in place of `{BOT_TOKEN}` 
+4. Place the Discord bot token in `Bot_Token = '{BOT_TOKEN}',` in the `config.lua` file in place of `{BOT_TOKEN}`&#x20;
 5. Get your Guild ID by copying the ID of your Discord server's logo in the sidebar of Discord.
-6. Place the Guild ID in `Guild_ID = '{GUILD_ID}',` in the `config.lua` file in place of `{GUILD_ID}` 
+6. Place the Guild ID in `Guild_ID = '{GUILD_ID}',` in the `config.lua` file in place of `{GUILD_ID}`&#x20;
 7. You can now choose to set up the `RoleList` or not. Utilizing the `RoleList` makes you able to use keys in the other Discord scripts that will correspond to the config's value when checking a user for matching roles.
 
 ### Example Configuration
 
-```text
+```
 Config = {
 	Guild_ID = '597445834153525298', -- Badger's Development Discord
 	Bot_Token = 'NzE4OTM2MjQxNjI5OTU0MTcw.XtwHjQ.pJa80TEeRG0wyN2KNi9zyr4pBK8', 
@@ -46,5 +48,4 @@ Config.Splash = {
 
 ### Download
 
-{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
-
+{% embed url="https://github.com/JaredScar/Badger_Discord_API" %}

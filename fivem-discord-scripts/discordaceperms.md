@@ -2,7 +2,7 @@
 
 ## **Version 1.0**
 
-This is another one of my discord scripts! :\) If used properly along with my other scripts, you can fully make your server use only discord roles for permissions and chat roles ;\)
+This is another one of my discord scripts! :) If used properly along with my other scripts, you can fully make your server use only discord roles for permissions and chat roles ;)
 
 ### Badger's Discord Community
 
@@ -10,17 +10,15 @@ This is another one of my discord scripts! :\) If used properly along with my ot
 
 ## **Requirement**
 
-{% embed url="https://github.com/JaredScar/Badger\_Discord\_API" %}
+{% embed url="https://github.com/JaredScar/Badger_Discord_API" %}
 
 ## **Installation Tutorial**
 
-{% embed url="https://youtu.be/UUzSdQtJE4s" %}
-
-The permissions for a user update after every restart when they first login \(so long as they have the discord role ID associated with the group in the list\).
+{% embed url="https://www.youtube.com/watch?v=blOnyLfevw8" %}
 
 Example of how to set it up:
 
-```text
+```
 roleList = {
 {1, "group.tc"}, --[[ Trusted-Civ --- ]] 
 {1, "group.faa"}, --[[ FAA --- ]]
@@ -39,9 +37,8 @@ The 1s should be replaced with IDs of the respective roles in your discord serve
 2. Extract the .zip and place the folder in your /resources/ of your Fivem server
 3. Put `add_ace resource.DiscordAcePerms command.add_principal allow` and `add_ace resource.DiscordAcePerms command.remove_principal allow` in server.cfg
 4. Make sure you add \`start DiscordAcePerms\` in your server.cfg
-5. Enjoy ![:slight\_smile:](https://forum.cfx.re/images/emoji/twitter/slight_smile.png?v=9)
+5. Enjoy ![:slight\_smile:](https://forum.cfx.re/images/emoji/twitter/slight\_smile.png?v=9)
 
 ## **Download**
 
- ****[DiscordAcePerms](https://github.com/TheWolfBadger/DiscordAcePerms)
-
+&#x20;**** [DiscordAcePerms](https://github.com/TheWolfBadger/DiscordAcePerms)
