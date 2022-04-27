@@ -3,7 +3,8 @@
 * [Welcome to Badger Docs](README.md)
 * [Badger's Website](https://badger.store)
 * [Badger's Discord](https://discord.com/invite/WjB5VFz)
-* [20% off hosting \| Use Code: TheWolfBadger-4765](https://zap-hosting.com/badger)
+* [Join Guilded](https://www.guilded.gg/?r=myxkan6d)
+* [20% off hosting | Use Code: TheWolfBadger-4765](https://zap-hosting.com/badger)
 
 ## Fivem General Help
 
@@ -29,23 +30,23 @@
 * [Badger-911](fivem-discord-scripts/badger-911.md)
 * [Bad-Scoreboard](fivem-discord-scripts/bad-scoreboard.md)
 * [Bad-DiscordQueue](fivem-discord-scripts/bad-discordqueue.md)
-* [Badger\_Discord\_API](fivem-discord-scripts/badger_discord_api/README.md)
-  * [Installation](fivem-discord-scripts/badger_discord_api/installation-script.md)
-  * [GetRoleIdFromRoleName](fivem-discord-scripts/badger_discord_api/getroleidfromrolename.md)
-  * [CheckEqual](fivem-discord-scripts/badger_discord_api/checkequal.md)
-  * [IsDiscordEmailVerified](fivem-discord-scripts/badger_discord_api/isdiscordemailverified.md)
-  * [GetDiscordEmail](fivem-discord-scripts/badger_discord_api/getdiscordemail.md)
-  * [GetDiscordName](fivem-discord-scripts/badger_discord_api/getdiscordname.md)
-  * [GetDiscordAvatar](fivem-discord-scripts/badger_discord_api/getdiscordavatar.md)
-  * [GetDiscordNickname](fivem-discord-scripts/badger_discord_api/getdiscordnickname.md)
-  * [GetDiscordRoles](fivem-discord-scripts/badger_discord_api/getdiscordroles.md)
-  * [GetGuildIcon](fivem-discord-scripts/badger_discord_api/getguildicon.md)
-  * [GetGuildSplash](fivem-discord-scripts/badger_discord_api/getguildsplash.md)
-  * [GetGuildName](fivem-discord-scripts/badger_discord_api/getguildname.md)
-  * [GetGuildDescription](fivem-discord-scripts/badger_discord_api/getguilddesc.md)
-  * [GetGuildMemberCount](fivem-discord-scripts/badger_discord_api/getguildmembercount.md)
-  * [GetGuildOnlineMemberCount](fivem-discord-scripts/badger_discord_api/getguildonlinememcount.md)
-  * [GetGuildRoleList](fivem-discord-scripts/badger_discord_api/getguildrolelist.md)
+* [Badger\_Discord\_API](fivem-discord-scripts/badger\_discord\_api/README.md)
+  * [Installation](fivem-discord-scripts/badger\_discord\_api/installation-script.md)
+  * [GetRoleIdFromRoleName](fivem-discord-scripts/badger\_discord\_api/getroleidfromrolename.md)
+  * [CheckEqual](fivem-discord-scripts/badger\_discord\_api/checkequal.md)
+  * [IsDiscordEmailVerified](fivem-discord-scripts/badger\_discord\_api/isdiscordemailverified.md)
+  * [GetDiscordEmail](fivem-discord-scripts/badger\_discord\_api/getdiscordemail.md)
+  * [GetDiscordName](fivem-discord-scripts/badger\_discord\_api/getdiscordname.md)
+  * [GetDiscordAvatar](fivem-discord-scripts/badger\_discord\_api/getdiscordavatar.md)
+  * [GetDiscordNickname](fivem-discord-scripts/badger\_discord\_api/getdiscordnickname.md)
+  * [GetDiscordRoles](fivem-discord-scripts/badger\_discord\_api/getdiscordroles.md)
+  * [GetGuildIcon](fivem-discord-scripts/badger\_discord\_api/getguildicon.md)
+  * [GetGuildSplash](fivem-discord-scripts/badger\_discord\_api/getguildsplash.md)
+  * [GetGuildName](fivem-discord-scripts/badger\_discord\_api/getguildname.md)
+  * [GetGuildDescription](fivem-discord-scripts/badger\_discord\_api/getguilddesc.md)
+  * [GetGuildMemberCount](fivem-discord-scripts/badger\_discord\_api/getguildmembercount.md)
+  * [GetGuildOnlineMemberCount](fivem-discord-scripts/badger\_discord\_api/getguildonlinememcount.md)
+  * [GetGuildRoleList](fivem-discord-scripts/badger\_discord\_api/getguildrolelist.md)
 * [DiscordVehicleRestrictions](fivem-discord-scripts/discordvehiclerestrictions.md)
 
 ## Fivem Misc. Scripts
@@ -63,7 +64,7 @@
 * [Badssentials](fivem-misc.-scripts/badssentials.md)
 * [BadgerStockMarket](fivem-misc.-scripts/badgerstockmarket.md)
 * [Badger-Anticheat](fivem-misc.-scripts/badger-anticheat.md)
-* [Badger\_Jailing](fivem-misc.-scripts/badger_jailing.md)
+* [Badger\_Jailing](fivem-misc.-scripts/badger\_jailing.md)
 * [BadgerFires](fivem-misc.-scripts/badgerfires.md)
 * [Multiverse-World-Manager](fivem-misc.-scripts/multiverse-world-manager.md)
 
@@ -78,8 +79,7 @@
 
 ## Archived Projects
 
----
+***
 
 * [SimpleRoleBot](simplerolebot.md)
 * [EssentialBot](essentialbot.md)
-
