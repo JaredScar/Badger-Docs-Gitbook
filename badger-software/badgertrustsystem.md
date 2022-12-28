@@ -1,5 +1,9 @@
 # BadgerTrustSystem+
 
+## About
+
+`BadgerTrustSystem+` is the most advanced trust system for the FiveM platform. Users can take control of their personal vehicles, peds, and/or weapons in-game that they purchased in the server's store. Give your users a better sense of security in which their personals cannot be used by others unless they give them permission. Use `BadgerTrustSystem+` :smile:
+
 ## Commands
 
 `/trusts` - List all the trusts you have given out `/trust <spawncode>` List all the trusts you have given out to the vehicle and/or ped and/or weapon with the specified spawncode
