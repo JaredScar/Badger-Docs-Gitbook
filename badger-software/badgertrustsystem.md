@@ -35,3 +35,7 @@
 `/setPedOwner <id> <spawncode>` - Set the ped owner of the ped spawncode provided to the server ID provided's user
 
 `/setWeaponOwner <id> <spawncode>` - Set the weapon owner of the weapon spawncode provided to the server ID provided's user
+
+## Purchase
+
+{% embed url="https://store.collectivem.org/category/badgertrustsystem" %}
