@@ -3,8 +3,6 @@
 * [Welcome to Badger Docs](README.md)
 * [Badger's Website](https://badger.store)
 * [Badger's Discord](https://discord.com/invite/WjB5VFz)
-* [Join Guilded](https://www.guilded.gg/?r=myxkan6d)
-* [Badger's Support Guild](https://www.guilded.gg/i/k8bA00PE)
 * [20% off hosting | Use Code: TheWolfBadger-4765](https://zap-hosting.com/badger)
 
 ## Fivem General Help
