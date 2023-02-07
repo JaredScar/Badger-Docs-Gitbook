@@ -93,7 +93,7 @@ Duration of minutes on tour is now included in the webhook messages! Example sho
 
 ![](https://i.gyazo.com/70c849fce1be1d54c9ccd822744a1ae3.png)
 
-**VERSION CHANGEME**
+**VERSION 3.0**
 
 NEW FEATURE
 
