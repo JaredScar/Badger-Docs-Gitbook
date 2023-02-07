@@ -42,7 +42,7 @@ Using /cops to list the online players on duty:
 
 **Config**
 
-```text
+```lua
 --[[
     1 = Red
     2 = Green
@@ -51,26 +51,38 @@ Using /cops to list the online players on duty:
     17 = Orange
 ]]--
 -- CONFIG --
-roleList = { 
-    ['👮 LSPD | '] = {1, 2, nil},
-    ['👮 Sheriff | '] = {1, 17, nil},
-    ['👮 SAHP | '] = {1, 3, nil},
-    ['👨‍🚒 Fire/EMS | '] = {1, 1, nil},
-    ['🎖️ NG | '] = {1, 5, nil},
-}
+RoleList = { 
+    ["ROLE-NAME-OR-ID-HERE"] = {
+        {'👮 Sheriff | ', 17, nil},
+        {'👮 LSPD | ', 2 , nil},
+        {'👮 SAHP | ', 3, nil},
+    },
+},
+
+Inheritances = { --MUST HAVE EnableInheritances SET TO TRUE TO WORK!
+    ["ROLE-1-NAME-OR-ID-HERE"] = {"ROLE-TO-INHERITE-ID-OR-NAME-HERE", "ANOTHER-ROLE-TO-INHERITE-ID-OR-NAME-HERE",},
+},
 ```
 
-Change the 1s to the corresponding discord roles' IDs you want it to represent. You can also add more roles too. Below is an example of adding another role to the list and giving it the color yellow. In terms to the nil values, you can replace those with webhook links and they will log clock-ins and clock-outs to that channel for the player.
+Change the "key" to the corresponding discord role ID or BDAPI Name you want it to represent. You can also add more roles too. Below is an example of adding another role to the list and giving it the color yellow. In terms to the nil values, you can replace those with webhook links and they will log clock-ins and clock-outs to that channel for the player.
 
-```text
-roleList = { 
-    ['👮 LSPD | '] = {1, 2, nil},
-    ['👮 Sheriff | '] = {1, 17, nil},
-    ['👮 SAHP | '] = {1, 3, nil},
-    ['👨‍🚒 Fire/EMS | '] = {1, 1, nil},
-    ['🎖️ NG | '] = {1, 5, nil},
-    ['RoleExample | '] = {1, 5, nil},
-}
+As for the Inheritances simply add the role name or ID in the "key" and the role name(s)/ID(s) you want the first role to inherit.
+
+```lua
+RoleList = { 
+    ["ROLE-NAME-OR-ID-HERE"] = {
+        {'👮 Sheriff | ', 17, nil},
+        {'👮 LSPD | ', 2 , nil},
+        {'👮 SAHP | ', 3, nil},
+    },
+    ["EXAMPLE-ROLE-NAME-OR-ID"] = {
+        {'ExampleRole | ', 5, nil},
+    },
+},
+
+Inheritances = { --MUST HAVE EnableInheritances SET TO TRUE TO WORK!
+    ["ROLE-1-NAME-OR-ID-HERE"] = {"ROLE-TO-INHERITE-ID-OR-NAME-HERE", "ANOTHER-ROLE-TO-INHERITE-ID-OR-NAME-HERE",},
+},
 ```
 
 **Version 2.0** 
@@ -80,6 +92,18 @@ NEW FEATURE
 Duration of minutes on tour is now included in the webhook messages! Example shown below. Also, weapons and armor are now removed when someone goes off duty :\)
 
 ![](https://i.gyazo.com/70c849fce1be1d54c9ccd822744a1ae3.png)
+
+**VERSION CHANGEME**
+
+NEW FEATURE
+
+Added Inheritances and Exports. (Thanks to [@NickReagan](https://github.com/NickReagan))
+
+**Exports;**
+```lua
+exports.PoliceEMSActivity:IsPlayerOnDuty(player) -- Returns bool(true/false) SERVER SIDE ONLY
+exports.PoliceEMSActivity:GetPlayerDutyBlip(player) -- Returns a player's active duty blip as a string. SERVER SIDE ONLY
+```
 
 **Thanks** 
 
