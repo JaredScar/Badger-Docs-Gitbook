@@ -1,6 +1,6 @@
 # PoliceEMSActivity
 
-**CURRENT VERSION: 1.0**
+**CURRENT VERSION: 3.0**
 
 ## **Version 1.0** 
 
