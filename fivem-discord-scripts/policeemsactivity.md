@@ -97,7 +97,7 @@ Duration of minutes on tour is now included in the webhook messages! Example sho
 
 NEW FEATURE
 
-Added Inheritances and Exports. (Thanks to [@NickReagan](https://github.com/NickReagan))
+Added Inheritances, Exports, and some configurability. (Thanks to [@NickReagan](https://github.com/NickReagan))
 
 **Exports;**
 ```lua
