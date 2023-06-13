@@ -124,3 +124,13 @@ Essentially, you can add as many watermarks to this configuration that you want 
 
 {% embed url="https://github.com/JaredScar/Badssentials" %}
 
+### Available Exports;
+
+`exports['Badssentials'].GetAOP()` | Returns the current AOP. (Server Side)
+`exports['Badssentials'].GetPeaceTimeStatus()` | Returns the current status of peacetime.  (Server Side)
+`exports['Badssentials'].IsDisplaysHidden()` | Returns true/false on whether or not Displays are hidden. (Client Side)
+
+### Events;
+
+`"Badssentials:AOPChange"` Paramaters; (oldAOP, newAOP, sourceID) | This is meant to be used for intergration purposes. We reccommend adding a source check before running your custom code to combat exploits/spam. 
+
