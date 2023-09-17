@@ -39,6 +39,23 @@ The 1s should be replaced with IDs of the respective roles in your discord serve
 4. Make sure you add \`start DiscordAcePerms\` in your server.cfg
 5. Enjoy ![:slight\_smile:](https://forum.cfx.re/images/emoji/twitter/slight\_smile.png?v=9)
 
+Common Errors:
+
+1.
+{% embed url="https://imgur.com/a/F6GzgOg" %}
+
+This usually means you have not added a comma at the end of the line
+
+2. Server not granting roles when you join
+   (No screenshot for this one due to no errors pop up in console)
+   This usally means you have not put quotation marks on the role names
+
+There are other errors that I have not covered but majority of the time this is caused to to LUA syntax errors (ie missing a comma missing a quotation mark ext)
+You can check if your configuration file has any syntax errors if you go to a website such as https://fptje.github.io/glualint-web/ or https://rextester.com/l/lua_online_compiler and inputting your config file.
+
+
+
+
 ## **Download**
 
 &#x20;**** [DiscordAcePerms](https://github.com/TheWolfBadger/DiscordAcePerms)
