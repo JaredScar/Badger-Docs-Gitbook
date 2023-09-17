@@ -46,6 +46,18 @@ Config.Splash = {
 }
 ```
 
+Common Errors:
+
+1.
+{% embed url="https://imgur.com/a/LdpHe7p" %}
+
+This usually means you have missed a comma inside of your configuration file 
+
+2.
+{% embed url="https://imgur.com/a/1sU75ER" %}
+
+This usually means you have not added qotation marks on both sides of names of the role names or role id's
+
 ### Download
 
 {% embed url="https://github.com/JaredScar/Badger_Discord_API" %}
